@@ -7,3 +7,4 @@ hello
 this is sfirst commit
 hello world
 this i s my git tut
+fine  
